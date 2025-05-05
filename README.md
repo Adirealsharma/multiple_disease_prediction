@@ -29,13 +29,13 @@ This is a **Streamlit-based web application** that predicts the likelihood of va
 ## 📁 Project Structure
 
 ```
-multiple-disease-prediction-streamlit-app/
+multiple_disease_prediction/
 │
 ├── diabetes_model.sav            # Trained model for diabetes prediction
 ├── heart_disease_model.sav       # Trained model for heart disease prediction
 ├── parkinsons_model.sav          # Trained model for Parkinson's disease prediction
 │
-├── multiple_disease_prediction.py # Streamlit frontend app
+├── app.py # Streamlit frontend app
 │
 ├── README.md                     # Project documentation
 └──
